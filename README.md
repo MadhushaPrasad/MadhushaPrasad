@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'am Madhusha Prasad Silva 👋 </h1>
 
-![Design and Development](mypic5.jpg.jpeg)
+![Design and Development](mypic5.jpeg)
 
 # Web and Mobile Developer
 I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, ui, ux, and design in general.
