@@ -3,7 +3,24 @@
 ![Design and Development](mypic5.jpg)
 
 # Web and Mobile Developer
-I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, ui, ux, and design in general.
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&layout=compact&hide=html&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
+</p>
+<br>
+
+<div align="center">
+  
+ ***get in touch***
+  <br>
+<a href="https://www.facebook.com/madusha.prasad.397"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Facebook" /></a>
+<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="30" title="Twitter" /></a>
+<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" /></a>
+<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" /></a>
+
+
+</div> 
 
 ## Skills and Experience
 <ol>
@@ -22,7 +39,7 @@ I'm Madhusha from Sri Lanka, and I do content on Design and Development. I reall
 <li>
 <h5>Framework</h5>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a></p>
 
 </li>
 
@@ -36,7 +53,7 @@ I'm Madhusha from Sri Lanka, and I do content on Design and Development. I reall
 <li>
 <h5>Backend Development</h5>
 
-<p align="left"><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
 
 </li>
 
