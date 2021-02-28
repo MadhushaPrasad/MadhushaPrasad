@@ -5,19 +5,23 @@
 # Web and Mobile Developer
 I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, ui, ux, and design in general.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&layout=compact&hide=html&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&layout=compact&hide=html&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
 </p>
 <br>
 
 <div align="center">
-  
+
  ***get in touch***
-  <br>
+<br>
+<div align="center">
+
 <a href="https://www.facebook.com/madusha.prasad.397"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Facebook" /></a>
 <a href="https://www.linkedin.com/in/madhusha-prasad-045a82187"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" /></a>
 <a href="madhushaprasad21@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" /></a>
 
+</div>
 
 </div> 
 
