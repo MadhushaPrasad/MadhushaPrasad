@@ -15,9 +15,8 @@ I'm Madhusha from Sri Lanka, and I do content on Design and Development. I reall
  ***get in touch***
   <br>
 <a href="https://www.facebook.com/madusha.prasad.397"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Facebook" /></a>
-<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="30" title="Twitter" /></a>
-<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" /></a>
-<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" /></a>
+<a href="https://www.linkedin.com/in/madhusha-prasad-045a82187"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" /></a>
+<a href="madhushaprasad21@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" /></a>
 
 
 </div> 
