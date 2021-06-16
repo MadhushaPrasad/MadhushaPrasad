@@ -3,13 +3,17 @@
 ![Design and Development](mypic5.jpeg)
 
 # Web and Mobile Developer
-I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, ui, ux, and design in general.
+I'm Madhusha from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and 
+frameworks like React and React Native, as well as learning Software Engineering Degree. I also enjoy wireframing, 
+ui, ux, and design in general.
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&layout=compact&hide=html&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
+    <img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
 <br>
+
 
 <div align="center">
 
@@ -28,8 +32,10 @@ I'm Madhusha from Sri Lanka, and I do content on Design and Development. I reall
 ## Skills and Experience
 <ol>
 <li>
-<h5>Programming Languages.</h5>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+    <h5>Programming Languages.</h5>
+    <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </li>
 
 <li>
