@@ -21,15 +21,15 @@
 
 <p align="center">
     <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   <br/>
   <br/>
   <center>
@@ -54,7 +54,13 @@ ui, ux, and design in general.
 <a href = "https://twitter.com/MadhushaPrasad?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/Iam_mprasad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://stackoverflow.com/users/10656685/madusha-prasad"><img src="https://img.icons8.com/color/2x/stackoverflow.png" height='50'/></a>
+
 </p>
 
+## ❤ Views and Followers
 
-
+![](https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic)
+<a href="https://github.com/MadhushaPrasad?tab=followers">
+![](https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social)
+</a>
+![](https://hit.yhype.me/github/profile?user_id=50085447)
