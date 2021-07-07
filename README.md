@@ -41,7 +41,7 @@ ui, ux, and design in general.
 <br/>
 <br/>
 
-<a href="https://github.com/MadhushaPrasad/github-readme-activity-graph"><img alt="Madhusha Prasad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![Madhusha Prasad's github activity graph](https://ancient-journey-33042.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&color=FFFFFF&bg_color=000000&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <br/>
 <br/>
@@ -54,5 +54,7 @@ ui, ux, and design in general.
 <a href = "https://twitter.com/MadhushaPrasad?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/Iam_mprasad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://stackoverflow.com/users/10656685/madusha-prasad"><img src="https://img.icons8.com/color/2x/stackoverflow.png" height='50'/></a>
-
 </p>
+
+
+
