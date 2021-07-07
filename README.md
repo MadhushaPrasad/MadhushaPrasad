@@ -37,3 +37,11 @@
 frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy wireframing, 
 ui, ux, and design in general.
 </center>
+
+<br/>
+<br/>
+
+<a href="https://github.com/MadhushaPrasad/github-readme-activity-graph"><img alt="Madhusha Prasad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
