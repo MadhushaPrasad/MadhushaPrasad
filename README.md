@@ -45,3 +45,14 @@ ui, ux, and design in general.
 
 <br/>
 <br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/madhusha-prasad-045a82187/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MadhushaPrasad?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/Iam_mprasad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://stackoverflow.com/users/10656685/madusha-prasad"><img src="https://img.icons8.com/color/2x/stackoverflow.png" height='50'/></a>
+
+</p>
