@@ -65,6 +65,6 @@ ui, ux, and design in general.
 </a>
 ![](https://hit.yhype.me/github/profile?user_id=50085447)
 
-## Snake eating my contribution graph
+## Snake eating my contributions graph
 
 ![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
