@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Own My Portfolio](http://madhushaprasad.s3.ap-south-1.amazonaws.com/index.html)**
+- 🔭 I’m currently working on **[My Own Portfolio](http://madhushaprasad.s3.ap-south-1.amazonaws.com/index.html)**
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specialising in Software Engineering Degree**
