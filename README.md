@@ -64,3 +64,7 @@ ui, ux, and design in general.
 ![](https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social)
 </a>
 ![](https://hit.yhype.me/github/profile?user_id=50085447)
+
+## Snake eating my contribution graph
+
+![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
