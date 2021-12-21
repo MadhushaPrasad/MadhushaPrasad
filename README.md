@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Own Portfolio](http://madhushaprasad.s3.ap-south-1.amazonaws.com/index.html)**
+- 🔭 I’m currently working at **[CodeBrix](https://codebrixtech.com/)** as a associate software engineer
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specialising in Software Engineering Degree**
