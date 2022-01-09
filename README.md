@@ -41,11 +41,6 @@ ui, ux, and design in general.
 <br/>
 <br/>
 
-![Madhusha Prasad's github activity graph](https://madhushaactivity.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&color=FFFFFF&bg_color=000000&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-<br/>
-<br/>
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
