@@ -1,14 +1,11 @@
 <a href="https://github.com/MadhushaPrasad"><img width="100%" height="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="175px"/></a>
-
+<br/><br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&center=true&size=30&color='000000')](https://git.io/typing-svg)
-
-<h1 align="center">
+<h1 align="center"
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<br/>
-
-<h3 align="jestify">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 ## 🙋‍♂️ About Me
 
