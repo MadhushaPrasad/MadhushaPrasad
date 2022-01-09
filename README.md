@@ -60,12 +60,15 @@ ui, ux, and design in general.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height = "20" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
@@ -80,6 +83,7 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What is NPM](https://medium.com/sliit-foss/what-is-npm-cae89d5557d?source=rss-c60ff17258e7------2)
 - [What is Vuex? ,the purpose of Vuex and Why do we need](https://medium.com/sliit-foss/what-is-vuex-the-purpose-of-vuex-and-why-do-we-need-d7a1ae8ed765?source=rss-c60ff17258e7------2)
 - [A Next-Generation ORM: Prisma](https://medium.com/sliit-foss/a-next-generation-orm-prisma-3c3f2b46bd5b?source=rss-c60ff17258e7------2)
