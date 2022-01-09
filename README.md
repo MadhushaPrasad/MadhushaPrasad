@@ -1,7 +1,14 @@
-<a href="#"><img width="100%" height="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="175px"/></a>
+<a href="https://github.com/MadhushaPrasad"><img width="100%" height="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhusha</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&center=true&size=30&color='000000')](https://git.io/typing-svg)
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+<br/>
+
+<h3 align="jestify">I'm a passionate Full Stack Developer from Sri Lanka. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -30,13 +37,42 @@
   <br/>
     <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=15&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
   <br/>
   <br/>
+
   <center>
-  <b>Note:</b> I really enjoy learning languages and 
-frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy wireframing, 
+  <b>Note:</b> I really enjoy learning languages and
+frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy wireframing,
 ui, ux, and design in general.
 </center>
+
+<br/>
+<br/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<br/>
+<br/>
+
+**languages and tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="terminal"></code>
 
 <br/>
 <br/>
@@ -52,7 +88,10 @@ ui, ux, and design in general.
 - [What is batch language?](https://medium.com/ms-club-of-sliit/what-is-batch-language-3fc848e75c80?source=rss-c60ff17258e7------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me:
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
+## Connect with me
 
 <p align="left">
 
