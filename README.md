@@ -8,7 +8,7 @@
 
 <br/>
 
-<h3 align="jestify">I'm a passionate Full Stack Developer from Sri Lanka. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="jestify">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -48,11 +48,9 @@ ui, ux, and design in general.
 </center>
 
 <br/>
-<br/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<br/>
 <br/>
 
 **languages and tools:**
@@ -77,7 +75,6 @@ ui, ux, and design in general.
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="terminal"></code>
 
-<br/>
 <br/>
 
 # Blog posts
