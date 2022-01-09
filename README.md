@@ -29,7 +29,7 @@
 
   <br/>
     <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=15&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   <br/>
   <br/>
   <center>
@@ -44,6 +44,7 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What is NPM](https://medium.com/sliit-foss/what-is-npm-cae89d5557d?source=rss-c60ff17258e7------2)
 - [What is Vuex? ,the purpose of Vuex and Why do we need](https://medium.com/sliit-foss/what-is-vuex-the-purpose-of-vuex-and-why-do-we-need-d7a1ae8ed765?source=rss-c60ff17258e7------2)
 - [A Next-Generation ORM: Prisma](https://medium.com/sliit-foss/a-next-generation-orm-prisma-3c3f2b46bd5b?source=rss-c60ff17258e7------2)
