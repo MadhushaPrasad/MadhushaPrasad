@@ -1,6 +1,6 @@
 <a href="https://github.com/MadhushaPrasad"><img width="100%" height="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="175px"/></a>
 <br/><br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&center=true&size=30&color='000000')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&size=30&color='000000')](https://git.io/typing-svg)
 <h1 align="center"
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
