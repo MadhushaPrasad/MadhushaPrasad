@@ -77,7 +77,7 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [XML History](https://madhusha.medium.com/xml-history-67c1a6f16d4?source=rss-c60ff17258e7------2)
+- [XML History](https://medium.com/sliit-foss/xml-history-67c1a6f16d4?source=rss-c60ff17258e7------2)
 - [Setting Up Your Go Environment](https://medium.com/sliit-foss/setting-up-your-go-environment-e064ff80c95f?source=rss-c60ff17258e7------2)
 - [What is Go?](https://medium.com/sliit-foss/what-is-go-f4962c75cad5?source=rss-c60ff17258e7------2)
 - [What is NPM](https://medium.com/sliit-foss/what-is-npm-cae89d5557d?source=rss-c60ff17258e7------2)
