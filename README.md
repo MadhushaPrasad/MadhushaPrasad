@@ -77,11 +77,11 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [XML History](https://madhusha.medium.com/xml-history-67c1a6f16d4?source=rss-c60ff17258e7------2)
 - [Setting Up Your Go Environment](https://medium.com/sliit-foss/setting-up-your-go-environment-e064ff80c95f?source=rss-c60ff17258e7------2)
 - [What is Go?](https://medium.com/sliit-foss/what-is-go-f4962c75cad5?source=rss-c60ff17258e7------2)
 - [What is NPM](https://medium.com/sliit-foss/what-is-npm-cae89d5557d?source=rss-c60ff17258e7------2)
 - [What is Vuex? ,the purpose of Vuex and Why do we need](https://medium.com/sliit-foss/what-is-vuex-the-purpose-of-vuex-and-why-do-we-need-d7a1ae8ed765?source=rss-c60ff17258e7------2)
-- [A Next-Generation ORM: Prisma](https://medium.com/sliit-foss/a-next-generation-orm-prisma-3c3f2b46bd5b?source=rss-c60ff17258e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
