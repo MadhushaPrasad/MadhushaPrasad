@@ -1,8 +1,13 @@
-<a href="https://github.com/MadhushaPrasad"><img width="100%" height="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="175px"/></a>
-<br/><br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&size=30&color='000000')](https://git.io/typing-svg)
+<p align="center">
+ <a href="https://github.com/MadhushaPrasad">
+  <img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
+ </a>
+</p>
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&size=30&color='000000')](https://git.io/typing-svg)
+
 <h1 align="center"
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
@@ -33,7 +38,7 @@
 
   <br/>
     <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=15&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
   <br/>
   <br/>
@@ -77,6 +82,7 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Git Commit Resetting, Checking Out &amp; Reverting.](https://madhusha.medium.com/git-commit-resetting-checking-out-reverting-87d73f277824?source=rss-c60ff17258e7------2)
 - [Get Styling with CSS](https://medium.com/sliit-foss/get-styling-with-css-5bfb13c4272d?source=rss-c60ff17258e7------2)
 - [Html History](https://medium.com/sliit-foss/html-history-467ab0eed987?source=rss-c60ff17258e7------2)
