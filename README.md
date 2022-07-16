@@ -4,13 +4,33 @@
  </a>
 </p>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm+Madhusha+Prasad;Nice+to+meet+you!&size=30&color='000000')](https://git.io/typing-svg)
-
-<h1 align="center"
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<!-- Typing SVG generated from - https://github.com/DenverCoder1/readme-typing-svg | https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Passionate%20Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28"></a>
+</p>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+
+<br/>
+<br/>
+
+<!-- Social icons section -->
+<p align="center">
+<a href="https://www.linkedin.com/in/madhusha-prasad-045a82187/" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a> &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/10656685/madusha-prasad" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/MadhushaPrasad?s=09" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/Iam_mprasad/" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -29,9 +49,11 @@
   <br/>
 
 <p align="center">
+  <p align="center">
     <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
+  </p>
 </p>
 
 ## 📊 My Github Status
@@ -93,24 +115,22 @@ ui, ux, and design in general.
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## Connect with me
+<br/>
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/madhusha-prasad-045a82187/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MadhushaPrasad?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Iam_mprasad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://stackoverflow.com/users/10656685/madusha-prasad"><img src="https://img.icons8.com/color/2x/stackoverflow.png" height='50'/></a>
-
-</p>
+<!-- Badges with custom icons section -->
 
 ## ❤ Views and Followers
 
-![](https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic)
-<a href="https://github.com/MadhushaPrasad?tab=followers">
-![](https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social)
-</a>
-![](https://hit.yhype.me/github/profile?user_id=50085447)
+<p align="center" width="100%">
+
+<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
+  <img align="center" alt="Madhusha Prasad | followers" width="93px" src="https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+
+</p>
+<br/>
 
 ## Snake eating my contributions graph
 
