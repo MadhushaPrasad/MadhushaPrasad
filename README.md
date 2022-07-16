@@ -104,7 +104,6 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Git Commit Resetting, Checking Out &amp; Reverting.](https://madhusha.medium.com/git-commit-resetting-checking-out-reverting-87d73f277824?source=rss-c60ff17258e7------2)
 - [Get Styling with CSS](https://medium.com/sliit-foss/get-styling-with-css-5bfb13c4272d?source=rss-c60ff17258e7------2)
 - [Html History](https://medium.com/sliit-foss/html-history-467ab0eed987?source=rss-c60ff17258e7------2)
