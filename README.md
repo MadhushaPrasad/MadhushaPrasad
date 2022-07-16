@@ -32,6 +32,19 @@
   
 <br/>
 
+<!-- Badges with custom icons section -->
+<p align="center" width="100%">
+
+<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
+  <img align="center" alt="Madhusha Prasad | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
+  <img align="center" alt="Madhusha Prasad | followers" width="93px" src="https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+
+</p>
+
+<br/>
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working at **[CodeBrix](https://codebrixtech.com/)** as a associate software engineer
@@ -115,21 +128,6 @@ ui, ux, and design in general.
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br/>
-
-<!-- Badges with custom icons section -->
-
-## ❤ Views and Followers
-
-<p align="center" width="100%">
-
-<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
-  <img align="center" alt="Madhusha Prasad | followers" width="93px" src="https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-
-</p>
 <br/>
 
 ## Snake eating my contributions graph
