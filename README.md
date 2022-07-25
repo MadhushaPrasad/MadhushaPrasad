@@ -121,7 +121,7 @@ ui, ux, and design in general.
 - [Get Styling with CSS](https://medium.com/sliit-foss/get-styling-with-css-5bfb13c4272d?source=rss-c60ff17258e7------2)
 - [Html History](https://medium.com/sliit-foss/html-history-467ab0eed987?source=rss-c60ff17258e7------2)
 - [XML History](https://medium.com/sliit-foss/xml-history-67c1a6f16d4?source=rss-c60ff17258e7------2)
-- [Setting Up Your Go Environment](https://medium.com/sliit-foss/setting-up-your-go-environment-e064ff80c95f?source=rss-c60ff17258e7------2)
+- [Setting Up Your Go Environment](https://medium.com/golangsrilanka/setting-up-your-go-environment-e064ff80c95f?source=rss-c60ff17258e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
