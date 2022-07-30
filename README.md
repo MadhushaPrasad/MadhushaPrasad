@@ -60,6 +60,17 @@
 
 - ⚡ Fun fact **I play video games and watch anime**
   <br/>
+    
+
+<p align="center">
+
+  ```
+  For Academic Purposes
+  
+  Student IT :IT20614126
+  Student Name : Silva A.D.M.P.
+  ```
+</p>
 
 <p align="center">
   <p align="center">
