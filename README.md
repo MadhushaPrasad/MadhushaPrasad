@@ -67,7 +67,7 @@
   ```
   For Academic Purposes
   
-  Student IT :IT20614126
+  Student IT : IT20614126
   Student Name : Silva A.D.M.P.
   ```
 </p>
