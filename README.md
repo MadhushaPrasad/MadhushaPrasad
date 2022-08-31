@@ -128,8 +128,8 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC Architecture](https://madhusha.medium.com/mvc-architecture-9460f28b4e43?source=rss-c60ff17258e7------2)
-- [Yarn for beginners](https://madhusha.medium.com/yarn-for-beginners-812a810d6ed9?source=rss-c60ff17258e7------2)
+- [MVC Architecture](https://medium.com/sliit-foss/mvc-architecture-9460f28b4e43?source=rss-c60ff17258e7------2)
+- [Yarn for beginners](https://medium.com/sliit-foss/yarn-for-beginners-812a810d6ed9?source=rss-c60ff17258e7------2)
 - [Git Commit Resetting, Checking Out &amp; Reverting.](https://medium.com/sliit-foss/git-commit-resetting-checking-out-reverting-87d73f277824?source=rss-c60ff17258e7------2)
 - [Get Styling with CSS](https://medium.com/sliit-foss/get-styling-with-css-5bfb13c4272d?source=rss-c60ff17258e7------2)
 - [Html History](https://medium.com/sliit-foss/html-history-467ab0eed987?source=rss-c60ff17258e7------2)
