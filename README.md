@@ -138,7 +138,6 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What is Pinia](https://madhusha.medium.com/what-is-pinia-595e2e724f1?source=rss-c60ff17258e7------2)
 - [What is API?](https://medium.com/ms-club-of-sliit/what-is-api-eb8e5130e3c0?source=rss-c60ff17258e7------2)
 - [MVC Architecture](https://medium.com/sliit-foss/mvc-architecture-9460f28b4e43?source=rss-c60ff17258e7------2)
