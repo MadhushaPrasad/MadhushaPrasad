@@ -1,10 +1,9 @@
 <p align="center">
  <a href="https://github.com/MadhushaPrasad">
-  <img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
+  <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.webp?resize=1200%2C630"/>
  </a>
 </p>
 
-<!-- Typing SVG generated from - https://github.com/DenverCoder1/readme-typing-svg | https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
@@ -60,16 +59,16 @@
 
 - ⚡ Fun fact **I play video games and watch anime**
   <br/>
-    
 
 <p align="center">
 
-  ```
-  For Academic Purposes
-  
-  Student IT : IT20614126
-  Student Name : Silva A.D.M.P.
-  ```
+```
+For Academic Purposes
+
+Student IT : IT20614126
+Student Name : Silva A.D.M.P.
+```
+
 </p>
 
 <p align="center">
@@ -87,7 +86,6 @@
   <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
   <br/>
-  <br/>
 
   <center>
   <b>Note:</b> I really enjoy learning languages and
@@ -99,7 +97,6 @@ ui, ux, and design in general.
 
 <img src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<br/>
 
 **languages and tools:**
 
@@ -125,9 +122,23 @@ ui, ux, and design in general.
 
 <br/>
 
+<p align="center"  width="100%">
+<a align='left'>
+   <img align="left" width="100" height="100" src="https://vueschool.io/images/illustration-tech-boxes-1.svg"/>
+
+</a>
+<a align='center'>
+   <img  align="right" width="100" height="100" src="https://vueschool.io/images/illustration-tech-boxes-2.svg"/>
+
+</a>
+</p>
+
+<br/>
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What is Pinia](https://madhusha.medium.com/what-is-pinia-595e2e724f1?source=rss-c60ff17258e7------2)
 - [What is API?](https://medium.com/ms-club-of-sliit/what-is-api-eb8e5130e3c0?source=rss-c60ff17258e7------2)
 - [MVC Architecture](https://medium.com/sliit-foss/mvc-architecture-9460f28b4e43?source=rss-c60ff17258e7------2)
