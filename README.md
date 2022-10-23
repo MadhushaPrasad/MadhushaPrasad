@@ -71,6 +71,11 @@ Student Name : Silva A.D.M.P.
 
 </p>
 
+## Awards
+
+[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+<hr/>
+
 <p align="center">
   <p align="center">
     <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
