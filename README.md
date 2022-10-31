@@ -143,11 +143,11 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [History of the web browser](https://madhusha.medium.com/history-of-the-web-browser-c899b90b9364?source=rss-c60ff17258e7------2)
 - [What is Pinia](https://madhusha.medium.com/what-is-pinia-595e2e724f1?source=rss-c60ff17258e7------2)
 - [What is API?](https://medium.com/ms-club-of-sliit/what-is-api-eb8e5130e3c0?source=rss-c60ff17258e7------2)
 - [MVC Architecture](https://medium.com/sliit-foss/mvc-architecture-9460f28b4e43?source=rss-c60ff17258e7------2)
 - [Yarn for beginners](https://medium.com/sliit-foss/yarn-for-beginners-812a810d6ed9?source=rss-c60ff17258e7------2)
-- [Git Commit Resetting, Checking Out &amp; Reverting.](https://medium.com/sliit-foss/git-commit-resetting-checking-out-reverting-87d73f277824?source=rss-c60ff17258e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
