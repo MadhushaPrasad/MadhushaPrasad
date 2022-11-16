@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/MadhushaPrasad">
-  <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.webp?resize=1200%2C630"/>
+  <img src="https://vueschool.io/images/sales/blackfriday/workshop-desktop.png"/>
  </a>
 </p>
 
