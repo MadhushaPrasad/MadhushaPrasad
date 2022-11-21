@@ -132,10 +132,6 @@ ui, ux, and design in general.
    <img align="left" width="100" height="100" src="https://vueschool.io/images/illustration-tech-boxes-1.svg"/>
 
 </a>
-<a align='center'>
-   <img  align="right" width="100" height="100" src="https://vueschool.io/images/illustration-tech-boxes-2.svg"/>
-
-</a>
 </p>
 
 <br/>
