@@ -100,9 +100,6 @@ ui, ux, and design in general.
 
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=MadhushaPrasad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
 **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
