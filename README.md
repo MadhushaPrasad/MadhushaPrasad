@@ -84,7 +84,9 @@ Student Name : Silva A.D.M.P.
   </p>
 </p>
 
-## 📊 My Github Status
+## 📊 My stackoverflow and Github Status
+
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
 
   <br/>
     <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
