@@ -127,8 +127,8 @@ ui, ux, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Client-Side GraphQL? — &lpar;Apollo Client&rpar;](https://madhusha.medium.com/what-is-client-side-graphql-apollo-client-f80c12a7339e?source=rss-c60ff17258e7------2)
-- [Introduction to GraphQL for Developers](https://madhusha.medium.com/introduction-to-graphql-for-developers-d7876a4323d7?source=rss-c60ff17258e7------2)
+- [What Is Client-Side GraphQL? — &lpar;Apollo Client&rpar;](https://medium.com/ms-club-of-sliit/what-is-client-side-graphql-apollo-client-f80c12a7339e?source=rss-c60ff17258e7------2)
+- [Introduction to GraphQL for Developers](https://medium.com/ms-club-of-sliit/introduction-to-graphql-for-developers-d7876a4323d7?source=rss-c60ff17258e7------2)
 - [Next generation web framework for node.js &lpar;Koa.js&rpar;](https://madhusha.medium.com/next-generation-web-framework-for-node-js-koa-js-e73781f29a6c?source=rss-c60ff17258e7------2)
 - [History of the web browser](https://madhusha.medium.com/history-of-the-web-browser-c899b90b9364?source=rss-c60ff17258e7------2)
 - [What is Pinia](https://medium.com/sliit-foss/what-is-pinia-595e2e724f1?source=rss-c60ff17258e7------2)
