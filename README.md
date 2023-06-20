@@ -46,7 +46,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[CodeBrix](https://codebrixtech.com/)** as a associate software engineer
+- 🔭 I’m currently working at **[Graytech](https://Graytechtech.com/)** as a software engineer
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specialising in Software Engineering Degree**
