@@ -49,7 +49,7 @@
 - 🔭 I’m currently working at **[Graytech](https://Graytechtech.lk/)** as a software engineer intern
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
-  Specialising in Software Engineering Degree**
+  Specializing in Software Engineering Degree**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -65,7 +65,7 @@
 ```
 For Academic Purposes
 
-Student IT : IT20614126
+Student IT: IT20614126
 Student Name : Silva A.D.M.P.
 ```
 
@@ -84,7 +84,7 @@ Student Name : Silva A.D.M.P.
   </p>
 </p>
 
-## 📊 My stackoverflow and Github Status
+## 📊 My Stackoverflow and Github Status
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
 <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
@@ -94,13 +94,13 @@ Student Name : Silva A.D.M.P.
 
   <center>
   <b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy wireframing,
-ui, ux, and design in general.
+frameworks like React and React Native, as well as learning Software engineering. And also enjoy wireframing,
+UI, UX, and design in general.
 </center>
 
 <br/>
 
-**languages and tools:**
+**Languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
@@ -134,7 +134,7 @@ ui, ux, and design in general.
 - [What Is Client-Side GraphQL? — &lpar;Apollo Client&rpar;](https://medium.com/ms-club-of-sliit/what-is-client-side-graphql-apollo-client-f80c12a7339e?source=rss-c60ff17258e7------2)
 <!-- BLOG-POST-LIST:END -->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Snake eating my contributions graph
