@@ -46,7 +46,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Graytech](https://Graytechtech.lk/)** as a software engineer
+- 🔭 I’m currently working at **[Graytech](https://Graytechtech.lk/)** as a software engineer intern
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specialising in Software Engineering Degree**
