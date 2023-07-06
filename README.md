@@ -127,11 +127,7 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is OAuth?](https://madhusha.medium.com/what-is-oauth-7072cc046c12?source=rss-c60ff17258e7------2)
-- [What is an event loop in JavaScript?](https://madhusha.medium.com/what-is-an-event-loop-in-javascript-f08270e3c8d6?source=rss-c60ff17258e7------2)
-- [Industry best practices for the MERN stack.](https://madhusha.medium.com/industry-best-practices-for-the-mern-stack-aa547017c174?source=rss-c60ff17258e7------2)
-- [Vite | Next Generation Frontend Tooling](https://madhusha.medium.com/vite-next-generation-frontend-tooling-77e4feca723d?source=rss-c60ff17258e7------2)
-- [What Is Client-Side GraphQL? — &lpar;Apollo Client&rpar;](https://medium.com/ms-club-of-sliit/what-is-client-side-graphql-apollo-client-f80c12a7339e?source=rss-c60ff17258e7------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
