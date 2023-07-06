@@ -127,7 +127,9 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [What is an event loop in JavaScript?](https://medium.com/@madushaprasad21/what-is-an-event-loop-in-javascript-902d5bb4abbd?source=rss-b0be5acfbb34------2)
+- [Html History](https://medium.com/@madushaprasad21/html-history-6d612c7af0dc?source=rss-b0be5acfbb34------2)
+- [XML History](https://medium.com/ms-club-of-sliit/xml-history-54863cd4df07?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
