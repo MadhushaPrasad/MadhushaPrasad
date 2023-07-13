@@ -127,11 +127,11 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is NPM](https://medium.com/@madushaprasad21/what-is-npm-6a860611156f?source=rss-b0be5acfbb34------2)
+- [MVC Architecture](https://medium.com/@madushaprasad21/mvc-architecture-786f3bab748b?source=rss-b0be5acfbb34------2)
 - [History of the web browser](https://medium.com/@madushaprasad21/history-of-the-web-browser-53ba6254854f?source=rss-b0be5acfbb34------2)
 - [Get Styling with CSS](https://medium.com/@madushaprasad21/get-styling-with-css-6827451130dd?source=rss-b0be5acfbb34------2)
 - [Layered Architecture](https://medium.com/@madushaprasad21/layered-architecture-84afbfcef10f?source=rss-b0be5acfbb34------2)
-- [What is an event loop in JavaScript?](https://medium.com/ms-club-of-sliit/what-is-an-event-loop-in-javascript-902d5bb4abbd?source=rss-b0be5acfbb34------2)
-- [Html History](https://medium.com/@madushaprasad21/html-history-6d612c7af0dc?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
