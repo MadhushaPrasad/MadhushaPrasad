@@ -127,11 +127,11 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yarn for beginners](https://medium.com/@madushaprasad21/yarn-for-beginners-859346d9c140?source=rss-b0be5acfbb34------2)
+- [Industry best practices for the MERN stack](https://medium.com/@madushaprasad21/industry-best-practices-for-the-mern-stack-fa4080abb9b4?source=rss-b0be5acfbb34------2)
 - [What is NPM](https://medium.com/@madushaprasad21/what-is-npm-6a860611156f?source=rss-b0be5acfbb34------2)
 - [MVC Architecture](https://medium.com/@madushaprasad21/mvc-architecture-786f3bab748b?source=rss-b0be5acfbb34------2)
 - [History of the web browser](https://medium.com/@madushaprasad21/history-of-the-web-browser-53ba6254854f?source=rss-b0be5acfbb34------2)
-- [Get Styling with CSS](https://medium.com/@madushaprasad21/get-styling-with-css-6827451130dd?source=rss-b0be5acfbb34------2)
-- [Layered Architecture](https://medium.com/@madushaprasad21/layered-architecture-84afbfcef10f?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
