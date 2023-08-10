@@ -127,11 +127,11 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is API?](https://medium.com/@madushaprasad21/what-is-api-d40c62812734?source=rss-b0be5acfbb34------2)
-- [Setting Up Your Go Environment](https://medium.com/@madushaprasad21/setting-up-your-go-environment-5674bea3cd89?source=rss-b0be5acfbb34------2)
-- [What is Go?](https://medium.com/@madushaprasad21/what-is-go-18c69975961d?source=rss-b0be5acfbb34------2)
-- [What is YAML?](https://medium.com/@madushaprasad21/what-is-yaml-318f34d22f55?source=rss-b0be5acfbb34------2)
-- [What is batch language?](https://medium.com/@madushaprasad21/what-is-batch-language-bbdd4ee9b627?source=rss-b0be5acfbb34------2)
+- [Introduction to GraphQL for Developers](https://medium.com/@madushaprasad21/introduction-to-graphql-for-developers-72a9da7ff835?source=rss-b0be5acfbb34------2)
+- [Vite | Next Generation Frontend Tooling](https://medium.com/@madushaprasad21/vite-next-generation-frontend-tooling-a69b62216e86?source=rss-b0be5acfbb34------2)
+- [What is Pinia](https://medium.com/@madushaprasad21/what-is-pinia-ab21864e9c36?source=rss-b0be5acfbb34------2)
+- [What exactly is Vuex, what is its purpose, and why do we require it?](https://medium.com/@madushaprasad21/what-exactly-is-vuex-what-is-its-purpose-and-why-do-we-require-it-9773c70e6bbc?source=rss-b0be5acfbb34------2)
+- [Vue.js history](https://medium.com/@madushaprasad21/vue-js-history-1a6b8567198f?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
