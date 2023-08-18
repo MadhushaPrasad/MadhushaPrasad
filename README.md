@@ -127,11 +127,11 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [History of Neural Networks](https://madushaprasad21.medium.com/history-of-neural-networks-6a54e8127687?source=rss-b0be5acfbb34------2)
+- [Understanding JavaScript Prototypes](https://madushaprasad21.medium.com/understanding-javascript-prototypes-1d40d767ec8b?source=rss-b0be5acfbb34------2)
+- [History of Neural Networks — Part 01](https://madushaprasad21.medium.com/history-of-neural-networks-6a54e8127687?source=rss-b0be5acfbb34------2)
 - [Introduction to GraphQL for Developers](https://madushaprasad21.medium.com/introduction-to-graphql-for-developers-72a9da7ff835?source=rss-b0be5acfbb34------2)
 - [Vite | Next Generation Frontend Tooling](https://madushaprasad21.medium.com/vite-next-generation-frontend-tooling-a69b62216e86?source=rss-b0be5acfbb34------2)
 - [What is Pinia](https://madushaprasad21.medium.com/what-is-pinia-ab21864e9c36?source=rss-b0be5acfbb34------2)
-- [What exactly is Vuex, what is its purpose, and why do we require it?](https://madushaprasad21.medium.com/what-exactly-is-vuex-what-is-its-purpose-and-why-do-we-require-it-9773c70e6bbc?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
