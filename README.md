@@ -51,11 +51,11 @@
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specializing in Software Engineering Degree**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://madhushaprasad.s3.ap-south-1.amazonaws.com/index.html)**
 
-- 📫 How to reach me **madushaPrasad21@gmail.com**
+- 📫 How to reach me **madushaprasad21@gmail.com**
 
 - ⚡ Fun fact **I play video games and watch anime**
   <br/>
