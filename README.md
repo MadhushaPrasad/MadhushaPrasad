@@ -114,6 +114,8 @@ UI, UX, and design in general.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="20" src="https://github.com/MadhushaPrasad/MadhushaPrasad/assets/50085447/e20369d6-35c0-438c-a1db-fa01690ad63e"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/free-go-77-1175166.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
