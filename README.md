@@ -86,9 +86,18 @@ Student Name : Silva A.D.M.P.
 
 ## 📊 My Stackoverflow and Github Status
 
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
-<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<p align="center">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
+     <img src="https://education.github.com/assets/nuxtocat-79c10c041306849eacad55263b0cb8c074d38804e3c282031a9359ba7aac6c4e.gif" width="300"/>
+</p>
+
+<p align="center">
+  <p align="center">
+   <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+     <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  </p>
+</p>
+
 
   <br/>
 
