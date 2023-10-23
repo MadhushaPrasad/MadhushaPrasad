@@ -28,12 +28,10 @@
   <img align="center" alt="Madhusha Prasad | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
 <p>
-  
 <br/>
 
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
-
 <a href="https://github.com/MadhushaPrasad?tab=followers" target="_blank">
   <img align="center" alt="Madhusha Prasad | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
 </a> &nbsp;&nbsp;
@@ -41,7 +39,6 @@
   <img align="center" alt="Madhusha Prasad | followers" width="93px" src="https://img.shields.io/github/followers/MadhushaPrasad?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
-
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -64,11 +61,9 @@
 
 ```
 For Academic Purposes
-
 Student IT: IT20614126
 Student Name : Silva A.D.M.P.
 ```
-
 </p>
 
 ## Awards
