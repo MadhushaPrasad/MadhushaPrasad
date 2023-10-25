@@ -82,7 +82,7 @@ Student Name : Silva A.D.M.P.
 ## 📊 My Stackoverflow and Github Status
 
 <p align="center">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/10656685?theme=dark&website=true&location=true" />
      <img src="https://education.github.com/assets/nuxtocat-79c10c041306849eacad55263b0cb8c074d38804e3c282031a9359ba7aac6c4e.gif" width="300"/>
 </p>
 
