@@ -130,9 +130,9 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [History of Neural Networks — Part 02](https://madushaprasad21.medium.com/history-of-neural-networks-part-02-567bcb5e99a?source=rss-b0be5acfbb34------2)
+- [History of Neural Networks — Part 02](https://medium.com/ms-club-of-sliit/history-of-neural-networks-part-02-567bcb5e99a?source=rss-b0be5acfbb34------2)
 - [Understanding JavaScript Prototypes](https://madushaprasad21.medium.com/understanding-javascript-prototypes-1d40d767ec8b?source=rss-b0be5acfbb34------2)
-- [History of Neural Networks — Part 01](https://madushaprasad21.medium.com/history-of-neural-networks-6a54e8127687?source=rss-b0be5acfbb34------2)
+- [History of Neural Networks — Part 01](https://medium.com/ms-club-of-sliit/history-of-neural-networks-6a54e8127687?source=rss-b0be5acfbb34------2)
 - [Introduction to GraphQL for Developers](https://madushaprasad21.medium.com/introduction-to-graphql-for-developers-72a9da7ff835?source=rss-b0be5acfbb34------2)
 - [Vite | Next Generation Frontend Tooling](https://madushaprasad21.medium.com/vite-next-generation-frontend-tooling-a69b62216e86?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
