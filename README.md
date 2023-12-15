@@ -130,11 +130,11 @@ UI, UX, and design in general.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use WebSockets in Golang](https://madushaprasad21.medium.com/how-to-use-websockets-in-golang-d914ab6bdb48?source=rss-b0be5acfbb34------2)
 - [Getting to know Redis](https://medium.com/ms-club-of-sliit/getting-to-know-redis-43b3204fece3?source=rss-b0be5acfbb34------2)
 - [History of Neural Networks — Part 02](https://medium.com/ms-club-of-sliit/history-of-neural-networks-part-02-567bcb5e99a?source=rss-b0be5acfbb34------2)
 - [Understanding JavaScript Prototypes](https://madushaprasad21.medium.com/understanding-javascript-prototypes-1d40d767ec8b?source=rss-b0be5acfbb34------2)
 - [History of Neural Networks — Part 01](https://medium.com/ms-club-of-sliit/history-of-neural-networks-6a54e8127687?source=rss-b0be5acfbb34------2)
-- [Introduction to GraphQL for Developers](https://madushaprasad21.medium.com/introduction-to-graphql-for-developers-72a9da7ff835?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
