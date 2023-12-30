@@ -43,14 +43,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Graytech](https://Graytechtech.lk/)** as a software engineer intern
-
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology
   Specializing in Software Engineering Degree**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://madhushaprasad.s3.ap-south-1.amazonaws.com/index.html)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mango-cliff-00a577510.4.azurestaticapps.net/)**
 
 - 📫 How to reach me **madushaprasad21@gmail.com**
 
