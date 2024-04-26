@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/MadhushaPrasad.svg)](https://user-badge.committers.top/sri_lanka_private/MadhushaPrasad)
+
 <p align="center">
  <a href="https://github.com/MadhushaPrasad">
   <img src="https://masteringnuxt.com/images/astronaut.webp" height="400"/>
