@@ -81,7 +81,7 @@ Student Name : Silva A.D.M.P.
 ---
 <!--START_SECTION:badges-->
 
-
+<p align="center" width="100%">
 <a title="Microsoft Student Ambassadors" href="https://mvp.microsoft.com/en-US/studentambassadors/profile/51a80262-30dd-44a1-9fa8-9d76fe13652b">
   <img width="135px" height="120px" src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelBeta.png">
 </a>
@@ -105,7 +105,7 @@ Student Name : Silva A.D.M.P.
 <a title="API Test Automation" href="https://api.badgr.io/public/assertions/P-NFKkEwTeWdeRVkxOQRgA?identity__email=madushaprasad21%40gmail.com">
   <img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-P-NFKkEwTeWdeRVkxOQRgA.png?versionId=i1HSMWd31exH0OATjBOvTAbDk7WiR9Jj">
 </a>
-
+</p>
 
 
 <!--END_SECTION:badges-->
