@@ -95,15 +95,15 @@ Student Name : Silva A.D.M.P.
 </a>
 
 <a title="Postman API Fundamentals Student Expert" href="https://api.badgr.io/public/assertions/sR8wieQ2TSGpNC0jl09AJA?identity__email=madushaprasad21%40gmail.com">
-  <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/sR8wieQ2TSGpNC0jl09AJA/image">
+  <img width="120px" height="120px" src="https://media.badgr.com/assertion-8492a47d208366099e0618ede1420aa4.png">
 </a>
 
 <a title="30 days of Postman - for developers" href="https://api.badgr.io/public/assertions/P1p34F9bS-iZHlPJfN9bgw?identity__email=madushaprasad21%40gmail.com">
-  <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/P1p34F9bS-iZHlPJfN9bgw/image">
+  <img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-P1p34F9bS-iZHlPJfN9bgw.png?versionId=4Nj9OZL6rRsXSEoTiepyLMypciLHQ9Tk">
 </a>
 
 <a title="API Test Automation" href="https://api.badgr.io/public/assertions/P-NFKkEwTeWdeRVkxOQRgA?identity__email=madushaprasad21%40gmail.com">
-  <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/P-NFKkEwTeWdeRVkxOQRgA/image">
+  <img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-P-NFKkEwTeWdeRVkxOQRgA.png?versionId=i1HSMWd31exH0OATjBOvTAbDk7WiR9Jj">
 </a>
 
 
@@ -114,7 +114,9 @@ Student Name : Silva A.D.M.P.
 
 [![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
 <!-- awards section end -->
+
 ---
+
 <!-- Github status section start -->
 <h3 align="left">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom" />
@@ -136,7 +138,9 @@ Github Status
 </tr>
 </table>
 <!-- Github status section end -->
+
 ---
+
 <!-- Streak Status section start -->
 <h3 align="left"> 🔥 Streak Status</h3>
 
@@ -146,7 +150,9 @@ Github Status
     </a>
 </p>
 <!-- Streak Status section end -->
+
 ---
+
 <!-- Stackoverflow Status section start -->
 <h3 align="left">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
@@ -218,4 +224,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Snake eating my contributions graph
 
-![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
+<p width="95%" height="230px" align="center">
+ <a href="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif">
+        <img title="snake gif" alt="Madhusha Prasad's snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" valign="bottom"/>
+    </a>
+</p>
