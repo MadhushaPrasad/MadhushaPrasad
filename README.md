@@ -81,7 +81,13 @@ Student Name : Silva A.D.M.P.
 ---
 <!--START_SECTION:badges-->
 
+
 <p align="center" width="100%">
+ 
+<a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/badges/6c81503a-2a79-41aa-ab67-6bbda8a8611b">
+  <img  width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
+</a>
+ 
 <a title="Microsoft Student Ambassadors" href="https://mvp.microsoft.com/en-US/studentambassadors/profile/51a80262-30dd-44a1-9fa8-9d76fe13652b">
   <img width="135px" height="120px" src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelBeta.png">
 </a>
