@@ -83,6 +83,15 @@ Student Name : Silva A.D.M.P.
 
 
 <p align="center" width="100%">
+
+
+<a title="Introduction to Kubernetes" href="https://www.credly.com/badges/b6dc240c-eadc-45c8-885a-0512f5ffda5e/public_url">
+  <img  width="120px" height="120px" src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob">
+</a>
+
+<a title="Introduction to GitOps" href="https://www.credly.com/badges/a0ec29bc-e16f-4637-ab0b-a7e0e1f16f00/public_url">
+  <img  width="120px" height="120px" src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob">
+</a>
  
 <a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/badges/6c81503a-2a79-41aa-ab67-6bbda8a8611b">
   <img  width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
