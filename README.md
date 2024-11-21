@@ -8,7 +8,7 @@
 </p>
 <!-- typing text section end -->
 <!-- myself section start -->
-<p align="center"><b>I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</b></p>
+<p align="justify"><b>I’m a passionate Full Stack Developer from Sri Lanka, driven by a love for creating innovative solutions and crafting seamless digital experiences. As an avid open-source enthusiast and maintainer, I have gained invaluable insights and skills from the vibrant open-source community. I am constantly inspired by how collaboration and knowledge sharing bring people together to solve complex challenges and build impactful projects. My journey has been shaped by a commitment to continuous learning, contributing to meaningful initiatives, and leveraging technology to make a difference.</b></p>
 <!-- myself section end -->
 
 <!-- about me section start -->
