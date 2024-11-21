@@ -63,15 +63,6 @@
 If you like what I do, maybe consider buying me a **coffee/tea** 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
-
-#### Snake eating my contributions graph
-
-<p width="95%" height="230px" align="center">
- <a href="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif">
-        <img title="snake gif" alt="Madhusha Prasad's snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" valign="bottom"/>
-    </a>
-</p>
-
 <!-- about me section end -->
 <details>
   <summary>More...</summary>
@@ -235,4 +226,13 @@ UI, UX, and design in general.
 - [About Machine learning](https://medium.com/ms-club-of-sliit/about-machine-learning-f3984a8a4405?source=rss-b0be5acfbb34------2)
 - [How to use WebSockets in Golang](https://madushaprasad21.medium.com/how-to-use-websockets-in-golang-d914ab6bdb48?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
+
+#### Snake eating my contributions graph
+
+<p width="95%" height="230px" align="center">
+ <a href="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif">
+        <img title="snake gif" alt="Madhusha Prasad's snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" valign="bottom"/>
+    </a>
+</p>
+
 </details>
