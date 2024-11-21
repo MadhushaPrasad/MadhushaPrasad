@@ -8,7 +8,7 @@
 </p>
 <!-- typing text section end -->
 <!-- myself section start -->
-#####I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.#####
+<p align="center"><b>I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</b></p>
 <!-- myself section end -->
 
 <!-- about me section start -->
