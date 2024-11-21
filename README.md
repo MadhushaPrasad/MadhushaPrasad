@@ -8,7 +8,7 @@
 </p>
 <!-- typing text section end -->
 <!-- myself section start -->
-<p align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+##### I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. #####
 <!-- myself section end -->
 
 <!-- about me section start -->
@@ -61,7 +61,7 @@
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<a align="center" href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="100"></a>
+<a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 #### Snake eating my contributions graph
 
