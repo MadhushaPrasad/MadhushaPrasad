@@ -1,50 +1,39 @@
 <!-- world rank section start -->
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/MadhushaPrasad.svg)](https://user-badge.committers.top/sri_lanka_private/MadhushaPrasad)
 <!-- world rank section end -->
+
+<!-- image section start -->
+<p align="center">
+ <a href="https://github.com/MadhushaPrasad">
+  <img src="https://masteringnuxt.com/images/landing/winner.png" height="400"/>
+ </a>
+</p>
+<!-- image section end -->
+
  <!-- typing text section start -->
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 <!-- typing text section end -->
+
 <!-- myself section start -->
-**<p align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>**
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. And also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 <!-- myself section end -->
-
-<!-- about me section start -->
-#### 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology
-  Specializing in Software Engineering Degree**
-
-- 👯 I’m looking to collaborate on **open-source projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mango-cliff-00a577510.4.azurestaticapps.net/)**
-
-- 📫 How to reach me **<madushaprasad21@gmail.com>**
-
-- ⚡ Fun fact **I play video games and watch anime**
-  <br/>
 
 <!-- Social icons section start -->
 <p align="center">
 <a href="https://www.linkedin.com/in/madhusha-prasad-045a82187/" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Linkedin" width="24px" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" />
+  <img align="center" alt="Madhusha Prasad | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/10656685/madusha-prasad" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Stackoverflow" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/639/992/non_2x/stack-overflow-3d-icon-free-png.png" />
+  <img align="center" alt="Madhusha Prasad | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/MadhushaPrasad?s=09" target="_blank">
-  <img align="center" alt="Madhusha Prasad | X" width="24px" src="https://cdn3d.iconscout.com/3d/premium/thumb/x-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logo-application-pack-stickers-icons-9863308.png?f=webp" />
+  <img align="center" alt="Madhusha Prasad | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/Iam_mprasad/" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Instagram" width="24px" src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" />
-</a> &nbsp;&nbsp;
-<a href="https://www.threads.net/@iam_mprasad" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Thread" width="30px" src="https://static.vecteezy.com/system/resources/previews/029/129/366/non_2x/threads-3d-icon-free-png.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/@CodeWithMPrasad" target="_blank">
-  <img align="center" alt="Madhusha Prasad | Youtube" width="25px" src="https://img.icons8.com/?size=100&id=omVNNE6wkyP7&format=png&color=000000" />
+  <img align="center" alt="Madhusha Prasad | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
 <p>
 <!-- Social icons section end -->
@@ -59,23 +48,35 @@
 </p>
 <!-- Badges with custom icons section end (profile views and followers)-->
 
+<!-- about me section start -->
+## 🙋‍♂️ About Me
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology
+  Specializing in Software Engineering Degree**
 
-#### Snake eating my contributions graph
+- 👯 I’m looking to collaborate on **open-source projects**
 
-<p width="95%" height="230px" align="center">
- <a href="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif">
-        <img title="snake gif" alt="Madhusha Prasad's snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" valign="bottom"/>
-    </a>
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mango-cliff-00a577510.4.azurestaticapps.net/)**
+
+- 📫 How to reach me **<madushaprasad21@gmail.com>**
+
+- ⚡ Fun fact **I play video games and watch anime**
+  <br/>
+
+<p align="center">
+
+```
+For Academic Purposes
+Student IT: IT20614126
+Student Name : Silva A.D.M.P.
+```
+
 </p>
 
 <!-- about me section end -->
-<details>
-  <summary>More...</summary>
+
 <!-- awards section start -->
-<h4 align="left">Awards</h4>
+## Awards
 
 ---
 <!--START_SECTION:badges-->
@@ -132,10 +133,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 
 <!-- Github status section start -->
-<h4 align="left">
+<h3 align="left">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom" />
 Github Status
-</h4>
+</h3>
 
 <p align="center">
 
@@ -156,7 +157,7 @@ Github Status
 ---
 
 <!-- Streak Status section start -->
-<h4 align="left"> 🔥 Streak Status</h4>
+<h3 align="left"> 🔥 Streak Status</h3>
 
 <p width="55%" height="230px" align="center">
  <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
@@ -168,9 +169,9 @@ Github Status
 ---
 
 <!-- Stackoverflow Status section start -->
-<h4 align="left">
+<h3 align="left">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
-Stackoverflow Status </h4>
+Stackoverflow Status </h3>
 
 <p width="55%" height="230px" align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
@@ -225,7 +226,7 @@ UI, UX, and design in general.
 
 ---
 
-<h4 align="left"> Blog posts </h4>
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Dynamic UIs in Laravel Without Vue or React? Meet Livewire](https://medium.com/ms-club-of-sliit/building-dynamic-uis-in-laravel-without-vue-or-react-meet-livewire-ccf68cbbbd8f?source=rss-b0be5acfbb34------2)
@@ -234,4 +235,14 @@ UI, UX, and design in general.
 - [About Machine learning](https://medium.com/ms-club-of-sliit/about-machine-learning-f3984a8a4405?source=rss-b0be5acfbb34------2)
 - [How to use WebSockets in Golang](https://madushaprasad21.medium.com/how-to-use-websockets-in-golang-d914ab6bdb48?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
-</details>
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/madhushaprasad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
+## Snake eating my contributions graph
+
+<p width="95%" height="230px" align="center">
+ <a href="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif">
+        <img title="snake gif" alt="Madhusha Prasad's snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" valign="bottom"/>
+    </a>
+</p>
