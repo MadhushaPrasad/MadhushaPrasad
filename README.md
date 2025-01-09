@@ -74,7 +74,9 @@ If you like what I do, maybe consider buying me a **coffee/tea** 🥺👉👈
 
 
 <p align="center" width="100%">
-
+<a title="GitHub Foundations" href="https://www.credly.com/badges/ba618d67-a915-4ea2-968e-1f2b039e05dd/public_url">
+  <img  width="120px" height="120px" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">
+</a>
 
 <a title="Introduction to Kubernetes" href="https://www.credly.com/badges/b6dc240c-eadc-45c8-885a-0512f5ffda5e/public_url">
   <img  width="120px" height="120px" src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob">
