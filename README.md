@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mango-cliff-00a577510.4.azurestaticapps.net/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://madhushaprasad.netlify.app)**
 
 - 📫 How to reach me **<madushaprasad21@gmail.com>**
 
