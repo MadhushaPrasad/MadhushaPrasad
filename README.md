@@ -151,18 +151,6 @@ Github Status
 
 ---
 
-<!-- Streak Status section start -->
-<h4 align="left"> 🔥 Streak Status</h4>
-
-<p width="55%" height="230px" align="center">
- <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000" valign="bottom"/>
-    </a>
-</p>
-<!-- Streak Status section end -->
-
----
-
 <!-- Stackoverflow Status section start -->
 <h4 align="left">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
