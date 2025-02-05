@@ -8,7 +8,9 @@
 </p>
 <!-- typing text section end -->
 <!-- myself section start -->
-<p align="justify"><b>I’m a passionate Full Stack Developer from Sri Lanka, driven by a love for creating innovative solutions and crafting seamless digital experiences. As an avid open-source enthusiast and maintainer, I have gained invaluable insights and skills from the vibrant open-source community. I am constantly inspired by how collaboration and knowledge sharing bring people together to solve complex challenges and build impactful projects. My journey has been shaped by a commitment to continuous learning, contributing to meaningful initiatives, and leveraging technology to make a difference.</b></p>
+<p align="justify"><b>As a highly motivated software engineer with leadership experience, I excel in full-stack development, UI/UX design, and technical consultation. Proficient in Laravel, the MERN stack, and Vue.js, I’m passionate about JavaScript and contemporary frameworks. I prioritize dynamic problem-solving and stay updated on emerging technologies, especially in cybersecurity.
+
+Pursuing a Bachelor of Science (Honours) in Information Technology (Software Engineering) at SLIIT, I’m committed to continuous learning and community engagement. My goal is to develop scalable software solutions, contribute to open-source initiatives, and make a meaningful impact through collaborative endeavors.</b></p>
 <!-- myself section end -->
 
 <!-- about me section start -->
