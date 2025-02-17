@@ -160,9 +160,7 @@ Github Status
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
 Stackoverflow Status </h4>
 
-<p width="55%" height="230px" align="center">
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
-</p>
+[![user:10656685's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/10656685?theme=default&website=true&location=true)](https://stackoverflow.com/users/10656685/madusha-prasad)
 
 <!-- Stackoverflow Status section end -->
 
