@@ -4,19 +4,19 @@
 <!-- typing text section start -->
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20graduate%20in%20Software%20Engineering.%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 <!-- typing text section end -->
 <!-- myself section start -->
 <p align="justify"><b>As a highly motivated software engineer with leadership experience, I excel in full-stack development, UI/UX design, and technical consultation. Proficient in Laravel, the MERN stack, and Vue.js, I’m passionate about JavaScript and contemporary frameworks. I prioritize dynamic problem-solving and stay updated on emerging technologies, especially in cybersecurity.
 
-Pursuing a Bachelor of Science (Honours) in Information Technology (Software Engineering) at SLIIT, I’m committed to continuous learning and community engagement. My goal is to develop scalable software solutions, contribute to open-source initiatives, and make a meaningful impact through collaborative endeavors.</b></p>
+I hold a Bachelor of Science (Honours) in Information Technology (Software Engineering) from SLIIT. I’m committed to continuous learning and community engagement. My goal is to develop scalable software solutions, contribute to open-source initiatives, and make a meaningful impact through collaborative endeavors.</b></p>
 <!-- myself section end -->
 
 <!-- about me section start -->
 #### 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology
+- 🎓 I’m a graduate in **BSc (Hons) in Information Technology
   Specializing in Software Engineering Degree**
 
 - 👯 I’m looking to collaborate on **open-source projects**
