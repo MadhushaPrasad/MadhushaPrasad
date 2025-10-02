@@ -16,7 +16,7 @@ I hold a Bachelor of Science (Honours) in Information Technology (Software Engin
 <!-- about me section start -->
 #### 🙋‍♂️ About Me
 
-- 🎓 I’m a graduate in **BSc (Hons) in Information Technology
+- 🎓 I’m a graduated in **BSc (Hons) in Information Technology
   Specializing in Software Engineering Degree**
 
 - 👯 I’m looking to collaborate on **open-source projects**
