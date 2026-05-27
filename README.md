@@ -214,11 +214,11 @@ UI, UX, and design in general.
 <h4 align="left"> Blog posts </h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [React Best Practices Every Developer Has to Follow &lpar;Lessons From My Journey&rpar;](https://madushaprasad21.medium.com/react-best-practices-every-developer-has-to-follow-lessons-from-my-journey-29934f7df98e?source=rss-b0be5acfbb34------2)
 - [Micro-Frontend Architecture: Setup &amp; Key Concepts.](https://madushaprasad21.medium.com/micro-frontend-architecture-setup-key-concepts-c589d13c6fce?source=rss-b0be5acfbb34------2)
 - [Building Dynamic UIs in Laravel Without Vue or React? Meet Livewire](https://medium.com/ms-club-of-sliit/building-dynamic-uis-in-laravel-without-vue-or-react-meet-livewire-ccf68cbbbd8f?source=rss-b0be5acfbb34------2)
 - [JUnit and Mockito: The Perfect Duo for Robust Unit Testing](https://madushaprasad21.medium.com/junit-and-mockito-the-perfect-duo-for-robust-unit-testing-7113e89c775f?source=rss-b0be5acfbb34------2)
 - [Swift Programming Fundamentals](https://medium.com/ms-club-of-sliit/swift-programming-fundamentals-93e89069f804?source=rss-b0be5acfbb34------2)
-- [About Machine learning](https://medium.com/ms-club-of-sliit/about-machine-learning-f3984a8a4405?source=rss-b0be5acfbb34------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Snake eating my contributions graph
