@@ -97,7 +97,7 @@ If you like what I do, maybe consider buying me a **coffee/tea** 🥺👉👈
 </a>
  
 <a title="Microsoft Student Ambassadors" href="https://mvp.microsoft.com/en-US/studentambassadors/profile/51a80262-30dd-44a1-9fa8-9d76fe13652b">
-  <img width="135px" height="120px" src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelBeta.png">
+  <img width="120px" height="120px" src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelAssociate.png">
 </a>
 
 <a title="vue.js forge certificate of participation" href="https://conference.vueschool.io/attendees/4N6fauAhHK/certificate/download?signature=5d0dc75b79981ad4756d459cb56585a794eecec7bf72b0aeb336e8453f8d0e02">
