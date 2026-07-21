@@ -133,7 +133,6 @@ If you like what I do, maybe consider buying me a **coffee/tea** 🥺👉👈
 
 <!-- Github status section start -->
 <h4 align="left">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom" />
 Github Status
 </h4>
 
@@ -141,14 +140,15 @@ Github Status
 
 <table align="center">
 <tr border="none">
-
-<td width="60%" align="center">
-  <img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" />
-</td>
-
-<td width="40%" align="center">
-  <img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" />
-</td>
+  <td width="60%" align="center">
+    <a href="http://www.github.com/madhushaprasad">
+      <img alt="Madhusha Prasad's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=madhushaprasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" />
+    </a>
+  </td>
+  
+  <td width="40%" align="center">
+    <img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushaprasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" />
+  </td>
 </tr>
 </table>
 <!-- Github status section end -->
